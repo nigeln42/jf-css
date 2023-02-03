@@ -1,0 +1,110 @@
+
+.or {
+    position: relative;
+    padding: 15px !important;
+    background: #fff;
+    border-radius: 50%;
+    border: 1px solid #999;
+    width: 50px;
+    height: 50px;
+    margin: -65px auto 0 auto;
+    text-align: center !important;
+    line-height: 17px;
+    display: block;
+    z-index: 999999999999999999;
+    font-size: 18px;
+    color: #0abab5;
+}
+
+.or p {
+    margin-left: -2px !important;
+    padding: 0 !important;
+}
+
+.pdd {
+    padding: 20px;
+}
+
+@media screen and (max-width: 450px) {
+    .pdd {
+        padding: 20px 0;
+    }
+
+    .yummy .col-md-8 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+.header-middle {
+    width: 100%;
+    text-align: center;
+}
+
+.header-middle p {
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
+
+.eft2 {
+    font-size: 30px;
+    font-weight: 400;
+    color: #0abab5;
+    margin: 20px 0 10px 0;
+}
+
+.eft2 span {
+    color: #a020f0;
+}
+
+.eft3 {
+    margin: 5px 0;
+    color: #a020f0;
+    font-weight: 400;
+    font-size: 70px;
+    font-family: serif;
+}
+
+.eft4 {
+    font-weight: 400;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    font-size: 23px;
+}
+
+.eft4 {
+    overflow: hidden;
+}
+
+.eft5 {
+    color: #666;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 520px) {
+    .eft3 {
+        font-size: 35px;
+    }
+
+    .eft2 {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .cen {
+        text-align: center;
+    }
+
+    .or {
+        line-height: 18px;
+    }
+}
+
+.page {
+    font-size: 0;
+}
