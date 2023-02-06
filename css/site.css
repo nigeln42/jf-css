@@ -1,45 +1,45 @@
-.zbv-blog-04-post h3 {
-    line-height: 1.4em !important;
-}
+/*.zbv-blog-04-post h3 {*/
+/*    line-height: 1.4em !important;*/
+/*}*/
 
 .parrot .navbar-header .navbar-brand img {
     max-height: 60px !important;
 }
 
-.zbv-blog-nav {
-    padding: 5px 0px !important;
-}
+/*.zbv-blog-nav {*/
+/*    padding: 5px 0px !important;*/
+/*}*/
 
-.zbv-blog-01 {
-    background: url('https://www.eftdevon.com/3535/files/60ab687f90843_1621846143_blog-banner3.jpg') !important;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-}
+/*.zbv-blog-01 {*/
+/*    background: url('https://www.eftdevon.com/3535/files/60ab687f90843_1621846143_blog-banner3.jpg') !important;*/
+/*    background-size: cover !important;*/
+/*    background-repeat: no-repeat !important;*/
+/*    background-position: center !important;*/
+/*}*/
 
-.zbv-blog-01 h1 {
-    color: #fff !important;
-}
+/*.zbv-blog-01 h1 {*/
+/*    color: #fff !important;*/
+/*}*/
 
-.zbv-blog-01 h4 {
-    color: #fff !important;
-}
+/*.zbv-blog-01 h4 {*/
+/*    color: #fff !important;*/
+/*}*/
 
-.zen-blog-description-dynamic {
-    color: #fff !important;
-}
+/*.zen-blog-description-dynamic {*/
+/*    color: #fff !important;*/
+/*}*/
 
-.zen-blog-details-strip {
-    border-left: 8px solid #6fbf96 !important;
-}
+/*.zen-blog-details-strip {*/
+/*    border-left: 8px solid #6fbf96 !important;*/
+/*}*/
 
-.custom-heading {
-    font-size: 36px !important;
-}
+/*.custom-heading {*/
+/*    !*font-size: 36px !important;*!*/
+/*}*/
 
-.img-pro {
-    border: 3px solid #fff !important;
-}
+/*.img-pro {*/
+/*    border: 3px solid #fff !important;*/
+/*}*/
 
 .course-description-with-promo-video-outr {
     background-image: none !important;
@@ -47,13 +47,15 @@
 }
 
 #header5 {
-    border-bottom-style: solid !important;
-    border-bottom-width: 1px !important;
-    border-color: #d7ccd7 !important;
+    /*border-bottom-style: solid !important;*/
+    /*border-bottom-width: 1px !important;*/
+    /*border-color: #d7ccd7 !important;*/
+    border-bottom-width: 0 !important; /* May be set in block settings*/
 }
 
 .footer-block {
-    border-top: 1px solid #d7ccd7 !important;
+    /*border-top: 1px solid #d7ccd7 !important;*/
+    border-top-width: 0 !important; /* May be set in block settings*/
 }
 
 .zenler-course-author-outr {
@@ -72,28 +74,28 @@
     text-align: center !important;
 }
 
-body .yummy {
-    font-family: 'Roboto', sans-serif !important;
-}
+/*body .yummy {*/
+/*    font-family: 'Roboto', sans-serif !important;*/
+/*}*/
 
-.yummy h1, .yummy h2, .yummy h3 {
-    font-family: 'Open Sans', sans-serif !important;
-}
+/*.yummy h1, .yummy h2, .yummy h3 {*/
+/*    font-family: 'Open Sans', sans-serif !important;*/
+/*}*/
 
-h2 {
-    font-weight: 400 !important;
-    color: #0abab5 !important;
-}
+/*h2 {*/
+/*    font-weight: 400 !important;*/
+/*    color: #0abab5 !important;*/
+/*}*/
 
-h3 {
-    font-weight: 400 !important;
-    color: #0abab5 !important;
-}
+/*h3 {*/
+/*    font-weight: 400 !important;*/
+/*    color: #0abab5 !important;*/
+/*}*/
 
-h1.dynamic-heading {
-    color: #666666 !important
-}
+/*h1.dynamic-heading {*/
+/*    color: #666666 !important*/
+/*}*/
 
-.footer-style {
-    margin-top: 45px;
-}
+/*.footer-style {*/
+/*    margin-top: 45px;*/
+/*}*/
